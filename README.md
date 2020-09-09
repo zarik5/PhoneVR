@@ -1,6 +1,6 @@
-# Notice:
+# Deprecation Notice:
 
-The developement on this project has been discontinued for the time being. The current non working source code is dumped as it is in the folder `code`.
+The developement on this repository has been discontinued. But you can check out this fork: https://github.com/ShootingKing-AM/PhoneVR
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
